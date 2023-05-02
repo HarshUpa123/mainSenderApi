@@ -1,1 +1,1 @@
-# mainSenderApi
+# mailSenderApi
